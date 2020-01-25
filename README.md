@@ -16,6 +16,7 @@ Número de acidentes por ano:
 <p align="center">
 <img src="/figuras/acidentes_por_ano.png" alt="acidentes por ano" width="500"/>
 </p>
+
 Principais causas e tipos dos acidentes:
 ![causas e tipos dos acidentes](/figuras/causas_tipos.png)
 
