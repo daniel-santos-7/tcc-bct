@@ -14,7 +14,7 @@ Esse projeto faz parte do Trabalho de Conclusão de Curso desenvolvido por mim a
 
 Número de acidentes por ano:
 <br/>
-<img src="/figuras/acidentes_por_ano.png" alt="acidentes por ano" width="500"/>
+<img src="/figuras/acidentes_por_ano.png" alt="acidentes por ano" width="500" align="center"/>
 
 Principais causas e tipos dos acidentes:
 ![causas e tipos dos acidentes](/figuras/causas_tipos.png)
@@ -24,7 +24,7 @@ Classificações dos acidentes:
 
 Distribuição cronológica:
 <br/>
-<img src="/figuras/matriz_acidentes.png" alt="matriz cronológica" width="500"/>
+<img src="/figuras/matriz_acidentes.png" alt="matriz cronológica" width="600" align="center"/>
 
 ### Tecnologias
 - Linguagem de Programação Python
